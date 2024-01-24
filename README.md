@@ -30,4 +30,12 @@ Major in CS, social phobia, often missing from the Internet, daily routine upsid
 
 - Telegram ：@RaySky_Rt (并不经常在线 / Not always online)
 
+### 挖的坑
+
+- 学Qt6 ---*当前进行中**
+
+- 学C# ---鸽了好久
+
+- 搭建自己的网站 ---只买了域名
+
 
