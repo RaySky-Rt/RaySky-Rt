@@ -1,4 +1,4 @@
-<img align="right" src="raysky.png" width="400px" alt="raysky" title="raysky" />
+<img align="right" src="raysky.png" width="500px" alt="raysky" title="raysky" />
 
 ~~大概没有人会看这个~~
 
