@@ -1,16 +1,33 @@
-### Hi there 👋
+<img align="right" src="raysky.png" width="400px" alt="raysky" title="raysky" />
 
-<!--
-**RaySky-Rt/RaySky-Rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+~~大概没有人会看这个~~
 
-Here are some ideas to get you started:
+### 简短的自我介绍 / Bio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+计科人，重度社恐，经常赛博失踪，昼伏夜出，新手级别开发者
+
+Major in CS, social phobia, often missing from the Internet, daily routine upsided down, noob in developing
+
+### 使用语言 / Language...s?
+
+- C++
+
+### 目前主力开发 / Mainly working on
+
+- [Echo-Live-Typetool](https://github.com/RaySky-Rt/Echo-Live-Typetool) ：使用C++编写的一个输入工具，适用于 [Echo-Live](https://github.com/sheep-realms/Echo-Live)
+
+### 其他主页链接 / Other pages
+
+- ~~twi~~ X ：https://twitter.com/RaySky_Rt
+
+- Bilibili : https://space.bilibili.com/350313223
+
+### 联系方式 / Contact me
+
+*联系请注明来意*
+
+- Email ：raysky_rt@foxmail.com
+
+- Telegram ：@RaySky_Rt (并不经常在线 / Not always online)
+
+
