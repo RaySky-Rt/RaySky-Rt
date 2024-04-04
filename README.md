@@ -36,6 +36,6 @@ Major in CS, social phobia, often missing from the Internet, daily routine upsid
 
 - 学C# ---鸽了好久
 
-- 搭建自己的网站 ---只买了域名
+- 搭建自己的网站 --- [H.R.S.全栈工作室](www.hrs-powered.site) 博客绝赞施工中
 
 
