@@ -34,7 +34,7 @@ Major in CS, social phobia, often missing from the Internet, daily routine upsid
 
 - 学Qt6 ---*当前进行中**
 
-- 学C# ---鸽了好久
+- ~~为了Unity学C# ---鸽了好久~~ 转UE了（
 
 - 搭建自己的网站 --- [H.R.S.全栈工作室](https://hrs-powered.site) 博客绝赞施工中
 
