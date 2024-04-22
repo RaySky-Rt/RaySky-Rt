@@ -6,17 +6,17 @@
 
 计科人，重度社恐，经常赛博失踪，昼伏夜出，新手级别开发者
 
-Major in CS, social phobia, often missing from the Internet, daily routine upsided down, noob in developing
+Major in CS, social anxiety disorder, often missing from the Internet, daily routine upsided down, noob in developing
 
-### 使用语言 / Language...s?
+### 技术栈 / Technology stackT
 
-- C++
+- C/C++
 
 ### 目前主力开发 / Mainly working on
 
-- [Echo-Live-Typetool](https://github.com/RaySky-Rt/Echo-Live-Typetool) ：使用C++编写的一个输入工具，适用于 [Echo-Live](https://github.com/sheep-realms/Echo-Live)
+- [Echo-Live-Typetool](https://github.com/RaySky-Rt/Echo-Live-Typetool) ：使用C++编写的一个输入工具，适用于 [Echo-Live](https://github.com/sheep-realms/Echo-Live) ~~半弃坑状态~~
 
-### 其他主页链接 / Other pages
+### 其他主页链接 / Other mainpages
 
 - ~~twi~~ X ：https://twitter.com/RaySky_Rt
 
@@ -26,15 +26,15 @@ Major in CS, social phobia, often missing from the Internet, daily routine upsid
 
 *联系请注明来意*
 
-- Email ：raysky_rt@foxmail.com
+- Email ：raysky_rt@foxmail.com **OR** raysky_rt@outlook.com
 
 - Telegram ：@RaySky_Rt (并不经常在线 / Not always online)
 
 ### 挖的坑
 
-- 学Qt6 ---*当前进行中**
+- 学Qt6 ---~~*当前进行中*~~ 半弃坑状态
 
-- ~~为了Unity学C# ---鸽了好久~~ 转UE了（
+- 学习Unreal Engine 5 --- 目前进行中
 
 - 搭建自己的网站 --- [H.R.S.全栈工作室](https://hrs-powered.site) 博客绝赞施工中
 
