@@ -8,7 +8,7 @@
 
 Major in CS, social anxiety disorder, often missing from the Internet, daily routine upsided down, noob in developing
 
-### 技术栈 / Technology stackT
+### 技术栈 / Technology stack
 
 - C/C++
 
