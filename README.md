@@ -4,13 +4,21 @@
 
 ### 简短的自我介绍 / Bio
 
-计科人，重度社恐，经常赛博失踪，昼伏夜出，新手级别开发者
+计科人，重度社恐，昼伏夜出，新手级别开发者，业余画手与平面设计爱好者
 
-Major in CS, social anxiety disorder, often missing from the Internet, daily routine upsided down, noob in developing
+Major in CS, social anxiety disorder, daily routine upsided down, noob in developing, amateur illustrator and graphic design enthusiast
+
+你可以这样称呼我：**瑞天**，**小天**，**RaySky**，或者**rsky**
+
+Feel free to call me **瑞天**，**小天**，**RaySky**，or **rsky** in short
 
 ### 技术栈 / Technology stack
 
 - C/C++
+
+- Qt6
+
+- HTML/CSS
 
 ### 目前主力开发 / Mainly working on
 
